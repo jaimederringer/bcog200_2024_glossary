@@ -8,3 +8,4 @@
 - **bool variable**: A bool variable, short for Boolean, is a data type that stores True or False.
 - **Strings**: Strings are sequences of text in python that are surrounded by either single or double quotes. This is a built in data type for python. 
 - **Class**: A Code template for creating objects. Those objects have many functions built into them that associate certain behaviors that the script will run.
+- **Operators**: Operators are a part of programming languages (and math) that are used to perform operations on a variable.
