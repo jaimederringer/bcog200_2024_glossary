@@ -6,4 +6,5 @@
 - **OOP**: A design of python that is organized around objects and allows for bundling variable functions together. Ex: .append(), .mean() and print() statemens are all parts of OOP.
 - **bool variable**: A bool variable, short for Boolean, is a data type that stores True or False.
 - **Strings**: Strings are sequences of text in python that are surrounded by either single or double quotes. This is a built in data type for python. 
+- **Class**: A Code template for creating objects. Those objects have many functions built into them that associate certain behaviors that the script will run.
 
