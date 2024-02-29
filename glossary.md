@@ -2,3 +2,4 @@
 
 - **python**: Python is a programming language. It can be used to create interactive programs as well as for efficient and flexible data management and processing.
 - **Strings**: Strings are sequences of text in python that are surrounded by either single or double quotes. This is a built in data type for python. 
+- **Class**: A Code template for creating objects. Those objects have many functions built into them that associate certain behaviors that the script will run.
